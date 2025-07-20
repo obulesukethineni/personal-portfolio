@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = kethineni obulesu
+obulesu kethineni
+Java  developer
 
 Show Contacts
 
 Email
-richard@example.com
+obulesukethineni@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 6304937992
 
 Birthday
-June 23, 1982
+january 06, 2003
 
 Location
-Sacramento, California, USA
+Hydrabad
 
 # navbar
 
